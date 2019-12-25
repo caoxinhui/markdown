@@ -1,0 +1,2 @@
+- ` static getDerivedStateFromProps `
+- ` shouldComponentUpdate() ` 
