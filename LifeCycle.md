@@ -1,2 +1,3 @@
 - ` static getDerivedStateFromProps `
 - ` shouldComponentUpdate() ` 
+- ` render `
